@@ -1,10 +1,10 @@
 {
   "detector": "venue_date",
-  "movie": "Ramayana (IMAX 3D)",
-  "requested_date": "20261113",
-  "theatre": "PVR: Palazzo, The Nexus Vijaya Mall",
-  "venue_code": "PVPZ",
-  "venue_label": "PVR: Palazzo, The Nexus Vijaya Mall",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/ramayana/buytickets/ET00451914/{date}"
+  "movie": "Avengers: Doomsday",
+  "requested_date": "20261217",
+  "theatre": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+  "venue_code": "CBMC",
+  "venue_label": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+  "url_template": "https://in.bookmyshow.com/movies/chennai/avengers-doomsday/buytickets/ET00526287/{date}"
 
 }
